@@ -1,8 +1,7 @@
 <!-- General layout -->
 
 <script lang="ts">
-  // Get all the pages
-  let { children } = $props();
+  let { children } = $props(); // Get all the pages
 </script>
 
 <!-- Render the page you are on -->

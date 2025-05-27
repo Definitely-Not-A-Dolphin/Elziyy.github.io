@@ -3,7 +3,7 @@
 }
 
 .center {
-  text-align: center
+  text-align: center;
 }
 
 .centerp {
@@ -12,5 +12,10 @@
 }
 
 a {
-  color: rgb(0,150,200)
+  color: rgb(0, 150, 200);
+}
+
+.smallpfp {
+  width: 30px;
+  border-radius: 15px;
 }
